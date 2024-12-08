@@ -1,6 +1,10 @@
-I am uploading this zip file from the lab virtual machine. Due to my personal laptop mistaking my own html doc for a virus I will be submitting the 
-zip file from the lab environment. Any assistance in getting the laptop to not mistake the document for a virus is more than welcome. I am almost
-certain that my submitting this package via lab environment will not harm the package or solution, however I am including this disclaimer 
-none-the-less. Thank you for hopefully understanding and I am sorry in advance if this package gives you troubles.
+I am uploading this zip file from the lab virtual machine. Due to my laptop mistaking my HTML doc for a virus, I will submit the zip file from the 
+lab environment. Any assistance in making the computer not to mistake the document for a virus is welcome. I am almost positive that submitting this 
+package via the lab environment will not harm the package or solution. I have included this disclaimer nonetheless. Thank you for hopefully 
+understanding, and I am sorry if this package causes problems.
 
-(I have ran the whole package (the zip file) through a virus detector, it showed nothing.)
+(I have run the whole package (the zip file) through a virus detecttor, and it showed nothing.)
+
+Update for further context: it seems the issue had to do with ownership certificates or the GitHub packages from committing the whole folder. As 
+such the .gitignore and .gitattributes files are not included in the package. Similarly, the Visual Studio (vs) and GitHub(git) folders and content 
+were not in the brand-new repository I created in hopes of correcting this misidentification of the package as malware.

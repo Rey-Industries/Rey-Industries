@@ -1,0 +1,6 @@
+I am uploading this zip file from the lab virtual machine. Due to my personal laptop mistaking my own html doc for a virus I will be submitting the 
+zip file from the lab environment. Any assistance in getting the laptop to not mistake the document for a virus is more than welcome. I am almost
+certain that my submitting this package via lab environment will not harm the package or solution, however I am including this disclaimer 
+none-the-less. Thank you for hopefully understanding and I am sorry in advance if this package gives you troubles.
+
+(I have ran the whole package (the zip file) through a virus detector, it showed nothing.)

@@ -8,3 +8,5 @@ understanding, and I am sorry if this package causes problems.
 Update for further context: it seems the issue had to do with ownership certificates or the GitHub packages from committing the whole folder. As 
 such the .gitignore and .gitattributes files are not included in the package. Similarly, the Visual Studio (vs) and GitHub(git) folders and content 
 were not in the brand-new repository I created in hopes of correcting this misidentification of the package as malware.
+
+Updated P.S.: I also made a new HTML file with the same code.

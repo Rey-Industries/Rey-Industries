@@ -10,3 +10,4 @@ such the .gitignore and .gitattributes files are not included in the package. Si
 were not in the brand-new repository I created in hopes of correcting this misidentification of the package as malware.
 
 Updated P.S.: I also made a new HTML file with the same code.
+Given that I have managed to make the HTML file and package able to avoid identifying it as malware, I will submit the package from my computer.
